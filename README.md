@@ -72,7 +72,7 @@ I’m a **data wrangler** and **problem solver**, turning messy datasets into cl
 ## 📚 Publications
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&width=1000&height=50&lines=Researcher+%7C+Data+Analyst+%7C+Dual+Publish+Specialist" alt="Typing animation highlighting researcher role" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&width=1000&height=50&lines=Researcher+%7C+Data+Analyst+%7C" alt="Typing animation highlighting researcher role" />
 </p>
 
 - [Forecasting Atmospheric CO₂ Concentrations Using SARIMA Models: Insights from Time-Series Analytics](https://doi.org/10.5281/zenodo.16788044) — [Medium article](https://medium.com/@hemanthkori007/forecasting-atmospheric-co2-how-rising-levels-of-carbon-dioxide-in-the-atmosphere-are-one-of-the-clearest-indicators-of-human-driven-climate-change-723e694c944d)
