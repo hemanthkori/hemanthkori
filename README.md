@@ -27,7 +27,7 @@
 
 ## 🚀 About Me  
 
-- 🎯 **Goal:** Land a **Data Analytics** or **Customer Service** role (Remote | Dublin | Hybrid)  
+- 🎯 freelance data-analyst for hire   
 - 🧠 Currently learning: **Machine Learning**, **Data Engineering**, and advanced **SQL**  
 - 🛠 Strong believer in **clean data, clean code, clean design**  
 - 🤝 I’m open to collaborating on: Analytics projects, dashboard designs, and open-source contributions  
