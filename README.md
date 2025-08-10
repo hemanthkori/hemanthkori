@@ -1,7 +1,8 @@
-<!-- 3D GOTH HEADER -->
+<!-- 3D BLUE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=000000&text=Hemanth%20Kori&section=header&fontColor=39FF14&fontSize=60&animation=fadeIn&stroke=39FF14&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0ea5e9,100:1e3a8a&text=Hemanth%20Kori&section=header&fontColor=ffffff&fontSize=60&animation=fadeIn&stroke=ffffff&strokeWidth=1" />
 </p>
+
 
 <!-- TYPING INTRO -->
 <p align="center">
