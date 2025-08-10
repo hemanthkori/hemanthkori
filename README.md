@@ -6,8 +6,9 @@
 
 <!-- TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1200&center=true&vCenter=true&width=900&duration=2500&color=0EA5E9&lines=Built+from+scratch%2C+driven+by+grit.;The+quiet+one+who+works+in+the+dark.;Turning+setbacks+into+comebacks.;Fueled+by+coffee%2C+code%2C+and+chaos.;Underdog+mindset%2C+unstoppable+execution." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1200&center=true&vCenter=true&width=900&duration=2500&color=0EA5E9&lines=Built+from+scratch%2C+driven+by+grit.;Breaking+limits+they+didn%E2%80%99t+know+existed.;Turning+setbacks+into+comebacks.;Fueled+by+coffee%2C+code%2C+and+chaos.;Underdog+mindset%2C+unstoppable+execution." alt="Typing SVG" />
 </p>
+
 
 <!-- MINI BIO -->
 I’m a **data wrangler** and **problem solver**, turning messy datasets into clear insights.  
