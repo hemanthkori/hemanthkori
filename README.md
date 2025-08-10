@@ -69,6 +69,17 @@ I’m a **data wrangler** and **problem solver**, turning messy datasets into cl
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saroshfarhan&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
+## 📚 Publications
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&width=1000&height=50&lines=Researcher+%7C+Data+Analyst+%7C+Dual+Publish+Specialist" alt="Typing animation highlighting researcher role" />
+</p>
+
+- [Forecasting Atmospheric CO₂ Concentrations Using SARIMA Models: Insights from Time-Series Analytics](https://doi.org/10.5281/zenodo.16788044) — [Medium article](https://medium.com/@hemanthkori007/forecasting-atmospheric-co2-how-rising-levels-of-carbon-dioxide-in-the-atmosphere-are-one-of-the-clearest-indicators-of-human-driven-climate-change-723e694c944d)
+
+- [Impacts of the COVID‑19 Pandemic and the Russia‑Ukraine Conflict on the Automotive Industry: A Data Analytics Perspective](https://doi.org/10.5281/zenodo.16788438) — [Medium article](https://medium.com/@hemanthkori007/how-covid-19-and-the-russia-ukraine-war-reshaped-the-auto-industry-a-data-analytics-perspective)
+
+
 <!-- FOOTER QUOTE -->
 <p align="center">
   <em>“The data never lies — it just hides. My job is to find it.”</em>
