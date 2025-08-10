@@ -6,7 +6,7 @@
 
 <!-- TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1200&center=true&vCenter=true&width=900&duration=2500&lines=Data+Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI;Dark%20theme%2C%20bright%20ideas;Always%20shipping%20something%20new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1200&center=true&vCenter=true&width=900&duration=2500&color=0EA5E9&lines=Built+from+scratch%2C+driven+by+grit.;The+quiet+one+who+works+in+the+dark.;Turning+setbacks+into+comebacks.;Fueled+by+coffee%2C+code%2C+and+chaos.;Underdog+mindset%2C+unstoppable+execution." alt="Typing SVG" />
 </p>
 
 <!-- MINI BIO -->
