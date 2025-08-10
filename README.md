@@ -70,5 +70,33 @@
 </p>
 
 <!-- BOTTOM WAVY DIVIDER -->
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Hemanth%20Kori&fontColor=39FF14&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Code%20in%20the%20Shadows&descAlignY=55&descAlign=50" />
+</p>
+
+<!-- About -->
+## 🦇 About Me  
+Hi, I'm **Hemanth Kori** — a data wrangler and problem solver.  
+💀 *I debug in the dark and deploy in the dawn.*  
+☕ Coffee + Code = Chaos  
+
+<!-- Tech Stack -->
+## ⚡ Tech Stack  
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)  
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=mysql)  
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)  
+
+<!-- GitHub Stats -->
+## 📊 Stats  
+![Hemanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemanthkori&show_icons=true&theme=dark)  
+
+<!-- Commit Snake -->
+![snake gif](https://github.com/hemanthkori/hemanthkori/blob/output/github-contribution-grid-snake-dark.svg)
+
+<!-- Footer -->
+---
+🖤 *"In code we trust, in shadows we thrive."* 🖤
 
 
