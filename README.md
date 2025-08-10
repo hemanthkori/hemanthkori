@@ -25,24 +25,36 @@
 <!-- WAVY DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=0:0ea5e9,100:8b5cf6&section=footer" />
 
+ a data wrangler and problem solver.  
+💀 *I debug in the dark and deploy in the dawn.*  
+☕ Coffee + Code = Chaos  
+
 ## ⚡ What I do
 - Build **clarity dashboards** and **insight reports** that people actually use.
 - Crush **Python + SQL** workflows, automate repeat drudgery, and ship on time.
 - Say “no” to messy charts. Say “yes” to story-driven visuals.
 
-## 🧰 Stack (short + sharp)
-`Python` `Pandas` `SQL` `Power BI` `Tableau` `Excel` `NumPy` `Matplotlib` `Git` `Jupyter`
+## ⚡ Tech Stack  
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=39FF14)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=39FF14)
+![Power BI](https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=39FF14)
+![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=39FF14)
+![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=39FF14)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=39FF14)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=39FF14)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=39FF14)
+
 
 ## 🚀 Featured work
 - **Retail Sales Performance** — interactive Power BI dashboard (DAX, measures, drill-through)
 - **Customer Churn** — ML baseline, feature importance, retention levers (Pandas/Sklearn)
 - **Sentiment Watch** — lightweight NLP pipeline over social mentions (spaCy/TextBlob)
 
-> Repos: pin your best 3 below so they show on the profile.
 
 
-
-## 📊 Live stats (animated)
+## 📊 Live stats 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=hemanthkori&show_icons=true&theme=tokyonight&rank_icon=github" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=hemanthkori&theme=tokyonight" />
@@ -67,21 +79,6 @@
 <p align="center">
   <em>“The data never lies — it just hides. My job is to find it.”</em>
 </p>
-
- a data wrangler and problem solver.  
-💀 *I debug in the dark and deploy in the dawn.*  
-☕ Coffee + Code = Chaos  
-
-<!-- Tech Stack -->
-## ⚡ Tech Stack  
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)  
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=mysql)  
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)  
-
-  
-
-
 <!-- Footer -->
 ---
 🖤 *"In code we trust, in shadows we thrive."* 🖤
