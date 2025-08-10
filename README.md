@@ -1,7 +1,6 @@
 <!-- 3D CAPSULE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=000000&section=footer&fontColor=39FF14" />
-
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=0:0ea5e9,100:8b5cf6&section=footer" /
 </p>
 
 <!-- TYPING INTRO -->
