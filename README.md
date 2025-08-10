@@ -62,10 +62,6 @@
   <img src="https://raw.githubusercontent.com/hemanthkori/hemanthkori/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
-<!-- METRICS (RICH WIDGETS) -->
-<p align="center">
-  <img width="780" src="https://raw.githubusercontent.com/hemanthkori/hemanthkori/main/metrics.svg" alt="metrics">
-</p>
 
 ## 🗺️ Current focus
 - Portfolio of **analytics case studies** with write-ups.
