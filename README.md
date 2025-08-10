@@ -23,17 +23,7 @@
 </p>
 
 <!-- WAVY DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=0:0ea5e9,100:8b5cf6&section=footer" />
-
- <!-- GOTH HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Hemanth%20Kori&fontColor=39FF14&fontSize=64&fontAlignY=35&animation=fadeIn&desc=Code%20in%20the%20Shadows&descAlign=50&descAlignY=60" />
-</p>
-
-<!-- TYPING INTRO -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1200&center=true&vCenter=true&width=900&duration=2500&lines=Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI;Dark+theme%2C+bright+ideas;Always+shipping+something+new" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=0:0ea5e9,100:8b5cf6&section=footer" /
 
 <!-- MINI BIO -->
 
