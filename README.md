@@ -78,29 +78,5 @@
 </p>
 
 <!-- BOTTOM WAVY DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=0:8b5cf6,100:0ea5e9&section=footer&reversal=true" />
 
-name: Generate Snake
-on:
-  schedule: [{cron: "0 */12 * * *"}]  # twice a day
-  workflow_dispatch:
-  push: {branches: ["main"]}
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: hemanthkori
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-      - name: Push snake
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
