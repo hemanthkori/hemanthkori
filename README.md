@@ -1,6 +1,7 @@
 <!-- 3D CAPSULE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0ea5e9,100:8b5cf6&text=Hemanth%20Kori&section=header&fontColor=ffffff&fontSize=60&animation=fadeIn&stroke=ffffff&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=000000&section=footer&fontColor=39FF14" />
+
 </p>
 
 <!-- TYPING INTRO -->
