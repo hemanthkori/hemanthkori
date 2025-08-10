@@ -40,11 +40,7 @@
 
 > Repos: pin your best 3 below so they show on the profile.
 
-<p align="center">
-  <a href="https://github.com/hemanthkori?tab=repositories&q=Dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hemanthkori&repo=Retail-Sales-Dashboard&theme=tokyonight"/></a>
-  <a href="https://github.com/hemanthkori?tab=repositories&q=Churn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hemanthkori&repo=Customer-Churn-ML&theme=tokyonight"/></a>
-  <a href="https://github.com/hemanthkori?tab=repositories&q=Sentiment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hemanthkori&repo=Sentiment-Watch&theme=tokyonight"/></a>
-</p>
+
 
 ## 📊 Live stats (animated)
 <p align="center">
