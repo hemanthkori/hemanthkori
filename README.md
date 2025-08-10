@@ -66,6 +66,9 @@ I’m a **data wrangler** and **problem solver**, turning messy datasets into cl
 - Sharpening **SQL window functions** + **dbt-style** transformations.
 - Better storytelling: less clutter, more signal.
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=saroshfarhan&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
 <!-- FOOTER QUOTE -->
 <p align="center">
   <em>“The data never lies — it just hides. My job is to find it.”</em>
