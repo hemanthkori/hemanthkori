@@ -1,99 +1,81 @@
-
-<!-- PROFILE HEADER -->
-<h1 align="center">
-  Hey there 👋, I'm <span style="color:#00BFFF;">Hemanth Kori</span>
-</h1>
-<h3 align="center">
-  Data Analyst 📊 | Problem Solver 🧩 | Tech Explorer 🚀
-</h3>
-
+<!-- 3D CAPSULE HEADER -->
 <p align="center">
-  <em>
-    "Turning data into decisions, and coffee into code."
-  </em>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0ea5e9,100:8b5cf6&text=Hemanth%20Kori&section=header&fontColor=ffffff&fontSize=60&animation=fadeIn&stroke=ffffff&strokeWidth=1" />
 </p>
 
----
-
-<!-- BADGES -->
+<!-- TYPING INTRO -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hemanthkori&label=Profile%20Views&color=00BFFF&style=flat" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/hemanth-kori/"><img src="https://img.shields.io/badge/LinkedIn-Hemanth%20Kori-blue?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:hemanthkori333@gmail.com"><img src="https://img.shields.io/badge/Email-Hemanth%20Kori-red?logo=gmail&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-ff69b4?logo=firefox"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&center=true&vCenter=true&width=900&lines=Data+Analyst+%F0%9F%93%8A;Turning+messy+data+%E2%9A%A0%EF%B8%8F+into+clean+decisions+%E2%9C%85;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Dublin%2C+Ireland+%7C+Open+to+Remote%2FHybrid" alt="Typing SVG" />
 </p>
 
----
-
-## 🚀 About Me  
-
-- 🎯 freelance data-analyst for hire   
-- 🧠 Currently learning: **Machine Learning**, **Data Engineering**, and advanced **SQL**  
-- 🛠 Strong believer in **clean data, clean code, clean design**  
-- 🤝 I’m open to collaborating on: Analytics projects, dashboard designs, and open-source contributions  
-- ⚡ Fun fact: I can build a pivot table faster than making instant noodles 🍜  
-
----
-
-## 🛠 Skills & Tools  
-
-**Languages**  
-`Python` `SQL` `R` `JavaScript`  
-
-**Data & Analytics Tools**  
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `Tableau` `Excel`  
-
-**Other Tools**  
-`Git` `REST API` `Jupyter` `VS Code` `Google Cloud`  
-
----
-
-## 📌 Featured Projects  
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|-----------|------|
-| **Customer Churn Analysis** | Predicted customer churn using ML algorithms | Python, Pandas, Scikit-Learn | [View Repo](#) |
-| **Retail Sales Dashboard** | Interactive Power BI dashboard for sales performance | Power BI, DAX | [View Repo](#) |
-| **Twitter Sentiment Analysis** | NLP model analyzing real-time tweets | Python, NLTK, Tweepy | [View Repo](#) |
-
----
-
-## 📊 GitHub Stats  
-
+<!-- HERO -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemanthkori&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthkori&theme=tokyonight" alt="GitHub Streak" height="165" />
+  <!-- drop your own GIF at /assets/hero.gif -->
+  <img src="./assets/hero.gif" alt="Hero animation" width="820" />
 </p>
 
----
-
-## 🌱 Current Focus  
-
-- 🏗 Building a **portfolio of analytics projects**  
-- 📚 Studying **statistical modeling** and **ETL pipelines**  
-- 🌐 Growing a **network in tech + analytics communities**  
-
----
-
-## 📫 How to Reach Me  
-
-- **Email:** [hemanthkori333@gmail.com](mailto:hemanthkori333@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/hemanth-kori](https://www.linkedin.com/in/hemanth-kori/)  
-- **Location:** Dublin, Ireland  
-
----
-
-## 🖤 Personal Quote  
-> *"The data never lies, but it does hide. My job is to find the truth."*
-
----
-
+<!-- QUICK CONNECT -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hemanthkori&theme=onedark&no-frame=true&row=1&column=6" alt="Trophies" />
+  <a href="mailto:hemanthkori333@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hemanthkori333%40gmail.com-red?logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/hemanth-kori/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hemanth%20Kori-0A66C2?logo=linkedin"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=hemanthkori&style=flat&color=0ea5e9">
+  <img alt="Followers" src="https://img.shields.io/github/followers/hemanthkori?label=Follow&style=flat">
 </p>
 
----
+<!-- WAVY DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=0:0ea5e9,100:8b5cf6&section=footer" />
+
+## ⚡ What I do
+- Build **clarity dashboards** and **insight reports** that people actually use.
+- Crush **Python + SQL** workflows, automate repeat drudgery, and ship on time.
+- Say “no” to messy charts. Say “yes” to story-driven visuals.
+
+## 🧰 Stack (short + sharp)
+`Python` `Pandas` `SQL` `Power BI` `Tableau` `Excel` `NumPy` `Matplotlib` `Git` `Jupyter`
+
+## 🚀 Featured work
+- **Retail Sales Performance** — interactive Power BI dashboard (DAX, measures, drill-through)
+- **Customer Churn** — ML baseline, feature importance, retention levers (Pandas/Sklearn)
+- **Sentiment Watch** — lightweight NLP pipeline over social mentions (spaCy/TextBlob)
+
+> Repos: pin your best 3 below so they show on the profile.
 
 <p align="center">
-  💡 *This README was generated with love, coffee, and a sprinkle of curiosity.*
+  <a href="https://github.com/hemanthkori?tab=repositories&q=Dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hemanthkori&repo=Retail-Sales-Dashboard&theme=tokyonight"/></a>
+  <a href="https://github.com/hemanthkori?tab=repositories&q=Churn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hemanthkori&repo=Customer-Churn-ML&theme=tokyonight"/></a>
+  <a href="https://github.com/hemanthkori?tab=repositories&q=Sentiment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hemanthkori&repo=Sentiment-Watch&theme=tokyonight"/></a>
 </p>
+
+## 📊 Live stats (animated)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hemanthkori&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=hemanthkori&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="190" src="https://github-readme-activity-graph.vercel.app/graph?username=hemanthkori&theme=tokyo-night&hide_border=true" />
+</p>
+
+<!-- SNAKE CONTRIBUTION GRAPH -->
+<p align="center">
+  <!-- this file is generated by the Snake workflow below -->
+  <img src="https://raw.githubusercontent.com/hemanthkori/hemanthkori/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+<!-- METRICS (RICH WIDGETS) -->
+<p align="center">
+  <img width="780" src="https://raw.githubusercontent.com/hemanthkori/hemanthkori/main/metrics.svg" alt="metrics">
+</p>
+
+## 🗺️ Current focus
+- Portfolio of **analytics case studies** with write-ups.
+- Sharpening **SQL window functions** + **dbt-style** transformations.
+- Better storytelling: less clutter, more signal.
+
+<!-- FOOTER QUOTE -->
+<p align="center">
+  <em>“The data never lies — it just hides. My job is to find it.”</em>
+</p>
+
+<!-- BOTTOM WAVY DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=0:8b5cf6,100:0ea5e9&section=footer&reversal=true" />
