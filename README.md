@@ -1,89 +1,157 @@
-<!-- 3D BLUE HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0ea5e9,100:1e3a8a&text=Hemanth%20Kori&section=header&fontColor=ffffff&fontSize=60&animation=fadeIn&stroke=ffffff&strokeWidth=1" />
-</p>
+<div align="center">
 
-<!-- TYPING INTRO -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1200&center=true&vCenter=true&width=900&duration=2500&color=0EA5E9&lines=Built+from+scratch%2C+driven+by+grit.;Breaking+limits+they+didn%E2%80%99t+know+existed.;Turning+setbacks+into+comebacks.;Fueled+by+coffee%2C+code%2C+and+chaos.;Underdog+mindset%2C+unstoppable+execution." alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hemanth%20Kori&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20ML%20Engineer%20%7C%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- HERO -->
-<p align="center">
-  <img src="./assets/hero.gif" alt="Hero animation" width="820" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Real+Insights+%F0%9F%93%8A;Building+ML+Models+that+Actually+Work+%F0%9F%A4%96;Crafting+Dashboards+Stakeholders+Love+%F0%9F%8E%AF;Open+to+Data+%26+Analytics+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<!-- QUICK CONNECT -->
-<p align="center">
-  <a href="mailto:hemanthkori333@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hemanthkori333%40gmail.com-red?logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/hemanth-kori/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hemanth%20Kori-0A66C2?logo=linkedin"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=hemanthkori&style=flat&color=0ea5e9">
-  <img alt="Followers" src="https://img.shields.io/github/followers/hemanthkori?label=Follow&style=flat">
-</p>
-
-<!-- MINI BIO -->
-I’m a **data wrangler** and **problem solver**, turning messy datasets into clear insights.  
-💀 *I debug in the dark and deploy at dawn.*  
-☕ Fueled by coffee, driven by code, and thriving in controlled chaos.
-
-## ⚡ What I do
-- Build **clarity dashboards** and **insight reports** that people actually use.
-- Crush **Python + SQL** workflows, automate repeat drudgery, and ship on time.
-- Say “no” to messy charts. Say “yes” to story-driven visuals.
-
-## ⚡ Tech Stack  
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=39FF14)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=39FF14)
-![Power BI](https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=39FF14)
-![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=39FF14)
-![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=39FF14)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=39FF14)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=39FF14)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14)
-![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=39FF14)
-
-## 🚀 Featured work
-- **Retail Sales Performance** — interactive Power BI dashboard (DAX, measures, drill-through)
-- **Customer Churn** — ML baseline, feature importance, retention levers (Pandas/Sklearn)
-- **Sentiment Watch** — lightweight NLP pipeline over social mentions (spaCy/TextBlob)
-
-## 📊 Live stats 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hemanthkori&show_icons=true&theme=tokyonight&rank_icon=github" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=hemanthkori&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="190" src="https://github-readme-activity-graph.vercel.app/graph?username=hemanthkori&theme=tokyo-night&hide_border=true" />
-</p>
-
-<!-- Commit Snake -->
-![snake gif](https://github.com/hemanthkori/hemanthkori/blob/output/github-contribution-grid-snake-dark.svg)
-
-## 🗺️ Current focus
-- Portfolio of **analytics case studies** with write-ups.
-- Sharpening **SQL window functions** + **dbt-style** transformations.
-- Better storytelling: less clutter, more signal.
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saroshfarhan&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-## 📚 Publications
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&width=1000&height=50&lines=Researcher+%7C+Data+Analyst+%7C" alt="Typing animation highlighting researcher role" />
-</p>
-
-- [Forecasting Atmospheric CO₂ Concentrations Using SARIMA Models: Insights from Time-Series Analytics](https://doi.org/10.5281/zenodo.16788044) — [Medium article](https://medium.com/@hemanthkori007/forecasting-atmospheric-co2-how-rising-levels-of-carbon-dioxide-in-the-atmosphere-are-one-of-the-clearest-indicators-of-human-driven-climate-change-723e694c944d)
-
-- [Impacts of the COVID‑19 Pandemic and the Russia‑Ukraine Conflict on the Automotive Industry: A Data Analytics Perspective](https://doi.org/10.5281/zenodo.16788438) — [Medium article](https://medium.com/@hemanthkori007/how-covid-19-and-the-russia-ukraine-war-reshaped-the-auto-industry-a-data-analytics-perspective)
-
-
-<!-- FOOTER QUOTE -->
-<p align="center">
-  <em>“The data never lies — it just hides. My job is to find it.”</em>
-</p>
+</div>
 
 ---
-🖤 *"In code we trust, in shadows we thrive."* 🖤
+
+## 👨‍💻 About Me
+
+```python
+hemanth = {
+    "name":       "Hemanth Kori",
+    "location":   "Dublin, Ireland 🇮🇪",
+    "role":       ["Data Analyst", "ML Engineer", "Web Developer"],
+    "passion":    "Turning messy datasets into clear, actionable insights",
+    "education":  "Data Analytics & Computer Science",
+    "philosophy": "The data never lies — it just hides. My job is to find it.",
+    "open_to":    "Full-time Data Analyst / Data Science roles 🚀"
+}
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemanthkori)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemanthkori)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemanthkori007@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/hemanthkori/portfolio)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Data Science & ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+**BI & Visualization**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-59666C?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🏆 Project | 📝 Description | 🛠 Stack | 🔗 |
+|-----------|---------------|---------|-----|
+| **Loan Approval Prediction** | ML models (Logistic Regression, Decision Trees, Random Forest) to predict loan approval | Python, Scikit-Learn | [View →](https://github.com/hemanthkori/loan-approval-prediction) |
+| **ETL Pipeline** | End-to-end ETL pipeline for sales & customer data analysis | Python, Pandas, SQLite | [View →](https://github.com/hemanthkori/etl-pipeline) |
+| **IMDb Movie Scraper** | Scrapes IMDb ratings & metadata using BeautifulSoup | Python, BS4, Requests | [View →](https://github.com/hemanthkori/imdb-movie-scraper) |
+| **Clustering Analysis** | Wine dataset clustering using K-Means & PCA dimensionality reduction | Python, Scikit-Learn | [View →](https://github.com/hemanthkori/clustering-analysis) |
+| **Uber Rides Analysis** | Exploratory data analysis of Uber rides patterns & trends | Python, Pandas, Matplotlib | [View →](https://github.com/hemanthkori/uber-rides-analysis) |
+| **Power BI Dashboard** | Interactive business intelligence dashboard with DAX measures | Power BI, DAX | [View →](https://github.com/hemanthkori/power-BI-dashboard) |
+| **Employee Management System** | GUI-based desktop app for employee records management | Python, Tkinter | [View →](https://github.com/hemanthkori/employee-management-system) |
+| **Portfolio Website** | Dynamic portfolio with animated scrolling & project showcase | HTML, CSS, JS | [View →](https://github.com/hemanthkori/portfolio) |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hemanthkori&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthkori&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthkori&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Top Languages"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hemanthkori&theme=tokyo-night&hide_border=true&area=true" width="49%" alt="Activity Graph"/>
+
+</div>
+
+---
+
+## 📚 Research & Publications
+
+<div align="center">
+
+| 📄 Paper | 🔬 Method | 🏛 Publisher |
+|---------|----------|------------|
+| **Atmospheric CO₂ Forecasting** | SARIMA Time Series Models | Zenodo |
+| **Automotive Industry Impact Analysis** | COVID-19 & Geopolitical Events Study | Zenodo |
+| **Road Freight Transport in Latvia (2014–2023)** | Statistical Data Analysis | Academic |
+| **Economic Development of Gambia** | Economic Statistics Study | Academic |
+
+</div>
+
+---
+
+## 🎯 What I Bring to the Table
+
+<div align="center">
+
+```
+📊 Data Analysis      ████████████████████  Expert
+🤖 Machine Learning   ████████████████░░░░  Advanced
+🗃️ SQL & Databases    ████████████████████  Expert
+📈 Data Visualization ███████████████████░  Advanced
+🌐 Web Development    ██████████████░░░░░░  Intermediate
+⚙️ ETL Pipelines      ████████████████░░░░  Advanced
+```
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm actively looking for **Data Analyst / Data Science** roles in Ireland and beyond.
+If you're hiring or want to collaborate — let's talk!
+
+[![Email Me](https://img.shields.io/badge/📧%20Email%20Me-hemanthkori007%40gmail.com-D14836?style=for-the-badge)](mailto:hemanthkori007@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=hemanthkori&color=58a6ff&style=flat-square&label=Profile+Views)
+
+*"The data never lies — it just hides. My job is to find it."* ✨
+
+</div>
